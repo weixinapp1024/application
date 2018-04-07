@@ -1,0 +1,3 @@
+<view class='container'>
+<view class="photo" catchtap='carame'></view>
+</view>
